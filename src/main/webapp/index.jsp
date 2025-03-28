@@ -3,15 +3,15 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Example</title>
+        <title> Ankit Banagali</title>
     </head>
-    <body bgcolor="silver">
+    <body bgcolor="pink">
         <form method="post" action="login.jsp">
             <center>
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Page</th>
+                        <th colspan="2">ANKIT CHUTPAGLU FINALBOSS</th>
                     </tr>
                 </thead>
                 <tbody>
