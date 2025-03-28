@@ -26,7 +26,7 @@ pipeline {
         stage('Build Docker Image') {
             steps {
                 script {
-                    docker.build("509399635098.dkr.ecr.eu-north-1.amazonaws.com/loginwebapprepo:${env.BUILD_ID}", ".")
+                    docker.build("509399635098.dkr.ecr.eu-north-1.amazonaws.com/loginwebapprepo:latest")
                 }
             }
         }
