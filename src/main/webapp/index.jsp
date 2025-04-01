@@ -3,9 +3,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title> Ankit Bangali </title>
+        <title> TIM HORTONS </title>
     </head>
-    <body bgcolor="Aquamarine">
+    <body bgcolor="Crimson">
         <form method="post" action="login.jsp">
             <center>
             <table border="5" width="30%" cellpadding="3">
