@@ -5,13 +5,13 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title> Ankit Bangali </title>
     </head>
-    <body bgcolor="green">
+    <body bgcolor="Aquamarine">
         <form method="post" action="login.jsp">
             <center>
             <table border="5" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">ANKIT CHUTPAGLU FINALBOSS</th>
+                        <th colspan="2">CKPAGLU FINALBOSS</th>
                     </tr>
                 </thead>
                 <tbody>
