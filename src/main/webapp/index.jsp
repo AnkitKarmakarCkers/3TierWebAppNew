@@ -3,12 +3,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title> Ankit Banagali</title>
+        <title> Ankit Bangali </title>
     </head>
-    <body bgcolor="pink">
+    <body bgcolor="green">
         <form method="post" action="login.jsp">
             <center>
-            <table border="0" width="30%" cellpadding="3">
+            <table border="5" width="30%" cellpadding="3">
                 <thead>
                     <tr>
                         <th colspan="2">ANKIT CHUTPAGLU FINALBOSS</th>
@@ -28,7 +28,7 @@
                         <td><input type="reset" value="Reset" /></td>
                     </tr>
                     <tr>
-                        <td colspan="2">New User <a href="register.jsp">Register Here Now DumbAss!</a></td>
+                        <td colspan="2">New User <a href="register.jsp">Register Here</a></td>
                     </tr>
                 </tbody>
             </table>
